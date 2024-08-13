@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1ShYCe7EBX/](https://www.bilibili.com/video/BV1ShYCe7EBX/)**
 
 **毕业设计所有选题地址：
-[https://github.com/codegiteepro/allProject](https://github.com/codegiteepro/allProject)**
+[https://github.com/codegitpro/allProject](https://github.com/codegitpro/allProject)**
 
 ## 基于Java+ssm的仓库管理系统(源代码+数据库)635
 
